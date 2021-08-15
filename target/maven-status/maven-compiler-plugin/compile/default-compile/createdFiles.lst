@@ -1,0 +1,8 @@
+com\durvisha\model\Item.class
+com\durvisha\model\Store.class
+StoreServiceApplication.class
+com\durvisha\controller\StoreController.class
+com\durvisha\model\Store$StoreBuilder.class
+com\durvisha\model\Item$ItemBuilder.class
+com\durvisha\model\Product.class
+com\durvisha\model\Product$ProductBuilder.class
