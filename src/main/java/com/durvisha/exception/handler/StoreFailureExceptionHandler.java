@@ -2,7 +2,6 @@ package com.durvisha.exception.handler;
 
 import com.durvisha.exception.AimException;
 import com.durvisha.exception.StoreFailureException;
-import org.springframework.boot.actuate.endpoint.web.annotation.RestControllerEndpoint;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
