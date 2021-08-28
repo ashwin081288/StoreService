@@ -8,7 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/EmployeeServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/ServletInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/com/durvisha/ServletInitializer.java">
           <value>
             <set />
           </value>
@@ -18,7 +33,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/com/durvisha/controller/EmployeeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/com/durvisha/exception/AimException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/com/durvisha/exception/EmployeeFailureException.java">
           <value>
             <set />
           </value>
@@ -38,7 +63,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/java/com/durvisha/repository/impl/EmployeeRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../EmoplyeeServices/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
