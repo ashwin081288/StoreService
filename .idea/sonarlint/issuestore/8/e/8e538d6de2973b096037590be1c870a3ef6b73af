@@ -1,0 +1,9 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "aimException".(­ö½¾øÿÿÿÿ
+L
+java:S1481"1Remove this unused "aimException" local variable.(­ö½¾øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–¯ÉÉıÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éâƒ
