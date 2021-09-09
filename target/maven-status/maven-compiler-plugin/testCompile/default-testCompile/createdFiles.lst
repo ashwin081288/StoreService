@@ -1,0 +1,6 @@
+com\durvisha\model\StoreTest.class
+StoreServiceApplicationTest.class
+com\durvisha\model\ProductTest.class
+com\durvisha\exception\handler\StoreFailureExceptionHandlerTest.class
+com\durvisha\model\ItemTest.class
+com\durvisha\controller\StoreControllerTest.class
