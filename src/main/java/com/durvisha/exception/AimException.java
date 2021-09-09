@@ -12,9 +12,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.Date;
 
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
 @Builder
 @JsonSerialize
 @JsonDeserialize

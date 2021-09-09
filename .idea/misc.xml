@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../EmoplyeeServices/pom.xml" />
         <option value="$PROJECT_DIR$/../EmployeeWebServices/EmployeeWebServices/pom.xml" />
+        <option value="$PROJECT_DIR$/../EmployeeWebService/pom.xml" />
+        <option value="$USER_HOME$/IdeaProjects/Swagger-Codegen/Swagger-Codegen/pom.xml" />
       </list>
     </option>
   </component>

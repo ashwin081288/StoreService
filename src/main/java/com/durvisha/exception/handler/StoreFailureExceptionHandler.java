@@ -19,7 +19,7 @@ public class StoreFailureExceptionHandler {
     @ResponseStatus(value = HttpStatus.NOT_FOUND)
     public ResponseEntity<AimException> storeNotFoundException(StoreFailureException ex, WebRequest request) {
         AimException aimException = AimException.builder().statusCode(HttpStatus.NOT_FOUND.value()).timestamp(new Date()).message(ex.getMessage()).description(request.getDescription(false)).build();
-        return new ResponseEntity<AimException>(AimException.builder().build(), HttpStatus.NOT_FOUND);
+        return new ResponseEntity<AimException>(aimException, HttpStatus.NOT_FOUND);
     }
 
     @ExceptionHandler(Exception.class)
