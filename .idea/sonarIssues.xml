@@ -13,6 +13,351 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.m2/settings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/main/java/Bag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/main/java/com/durvisha/model/Bag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/common/HttpClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/config/CucumberIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/config/CucumberSpringConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/config/CucumberStepDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/config/HttpClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/CucumberSpringbootDemo/src/test/java/com/durvisha/config/d.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/sonar-project.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/StoreWebServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/com/durvisha/controller/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/com/durvisha/exception/AimException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/com/durvisha/springbootcucumber/SpringbootCucumberApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/com/durvisha/springbootcucumber/controller/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/java/durvisha/exception/AimException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/resources/SpringbootCucumberDemo.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/StoreServiceApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/StoreWebServiceApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/CucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/config/CucumberIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/controller/StoreControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/cucumber/CucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/cucumber/steps/StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/exception/handler/StoreFailureExceptionHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/model/ItemTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/model/ProductTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/model/StoreTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/springbootcucumber/CucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/java/com/durvisha/steps/StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/resources/application-test.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/SpringbootCucumberDemo/src/test/resources/junit-platform.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/ashwin081288/src/main/java/com/durvisha/service/impl/LoginUserDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Assemble.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Bike.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Bus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Produce.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Vehicle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/bridge/Workshop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/Computer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/ComputerAbstractFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/ComputerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/Pc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/PcFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/ServerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/abstrat/factory/pcFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/EmailNotification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/Notification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/NotificationFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/PushNotification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/SmsNotification.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/factory/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/prototype/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/prototype/EmployeeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/prototype/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/proxy/Internet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/proxy/ProxyInternet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/proxy/RealInternet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/proxy/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/singleton/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/design-pattern-services/src/main/java/com/pattern/singleton/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../SpringBootProject/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../EmoplyeeServices/pom.xml">
           <value>
             <set />
@@ -103,7 +448,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/cucumber-report-html/cucumber-html-reports/overview-features.html">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lombok.config">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/openapi.yaml">
           <value>
             <set />
           </value>
@@ -158,6 +513,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/StoreService.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/StoreService.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/StoreService.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/additional.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
           <value>
             <set />
@@ -169,6 +544,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/StoreServiceApplicationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/durvisha/config/CucumberIntegrationTest.java">
           <value>
             <set />
           </value>
@@ -198,12 +578,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/durvisha/steps/StepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/cucumber.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/junit-platform.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/resources/response/store-details.json">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/store-service.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/classes/store-service.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/target/site/jacoco/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Swagger-Codegen/Swagger-Codegen/target/classes/api.yaml">
           <value>
             <set />
           </value>

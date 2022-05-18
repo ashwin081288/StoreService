@@ -26,7 +26,7 @@ public class ItemTest {
 
     @Test
     public void testToString() {
-        assertTrue(item.toString().equals( item.toString()));
+        assertTrue(item.toString().equals(item.toString()));
 
     }
 }

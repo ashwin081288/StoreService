@@ -21,7 +21,7 @@ import lombok.Generated;
         "item",
         "product"
 })
-public class Store  {
+public class Store {
 
     @JsonProperty("invoice")
     private String invoice;

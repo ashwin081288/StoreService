@@ -12,6 +12,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 @AutoConfigureMockMvc
 @DisplayName("Store Service Application")
 @ActiveProfiles(value = "test")
+//sss@ContextConfiguration
+
 //@WebMvcTest
 /*@TestPropertySource(
         locations = "classpath:application-integrationtest.properties")*/
@@ -22,7 +24,7 @@ public class StoreServiceApplicationTest {
     @Test
     @DisplayName("Main Method")
     public void testMain() {
-        StoreServiceApplication.main(new String[] {});
+        StoreServiceApplication.main(new String[]{});
     }
 
     @Test

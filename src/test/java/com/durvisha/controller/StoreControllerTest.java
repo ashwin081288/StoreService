@@ -51,8 +51,9 @@ public class StoreControllerTest {
         MockHttpServletRequestBuilder requestBuilder = MockMvcRequestBuilders.get("/store");
         ResultActions perform = this.mockMvc.perform(requestBuilder);
         MvcResult mvcResult = perform.andDo(print()).andExpect(status().isOk()).andReturn();
-        // .andExpect(content().string(containsString("Hello, World")));.andReturn();
-        MockHttpServletResponse response = mvcResult.getResponse();
+
+       // MockHttpServletResponse response = mvcResult.getResponse();
+
 
     }
 }

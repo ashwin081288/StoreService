@@ -7,12 +7,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../EmoplyeeServices/pom.xml" />
         <option value="$PROJECT_DIR$/../EmployeeWebServices/EmployeeWebServices/pom.xml" />
-        <option value="$PROJECT_DIR$/../EmployeeWebService/pom.xml" />
         <option value="$USER_HOME$/IdeaProjects/Swagger-Codegen/Swagger-Codegen/pom.xml" />
+        <option value="$PROJECT_DIR$/../../SpringBootProject/ashwin081288/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
   </component>
 </project>

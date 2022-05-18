@@ -1,0 +1,82 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "",
+    "version": "1.0.0",
+    "title": "Api Documentation"
+  },
+  "host": "localhost",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "StoreController"
+    }
+  ],
+  "schemes": [
+    "http",
+    "https"
+  ],
+  "paths": {
+    "/store": {
+      "get": {
+        "tags": [
+          "StoreController"
+        ],
+        "operationId": "getStoreList",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Store"
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "api_key": []
+          }
+        ]
+      }
+    }
+  },
+  "securityDefinitions": {
+    "api_key": {
+      "type": "apiKey",
+      "name": "Authorization",
+      "in": "header"
+    }
+  },
+  "definitions": {
+    "Item": {
+      "properties": {
+        "itemName": {
+          "type": "string"
+        }
+      }
+    },
+    "Product": {
+      "properties": {
+        "productName": {
+          "type": "string"
+        }
+      }
+    },
+    "Store": {
+      "properties": {
+        "invoice": {
+          "type": "string"
+        },
+        "item": {
+          "$ref": "#/definitions/Item"
+        },
+        "product": {
+          "$ref": "#/definitions/Product"
+        }
+      }
+    }
+  }
+}

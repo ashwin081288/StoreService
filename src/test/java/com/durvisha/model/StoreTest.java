@@ -26,7 +26,7 @@ public class StoreTest {
 
     @Test
     public void testToString() {
-        assertTrue(store.toString().equals( store.toString()));
+        assertTrue(store.toString().equals(store.toString()));
 
     }
 }

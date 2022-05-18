@@ -19,7 +19,7 @@ import lombok.Generated;
 @JsonPropertyOrder({
         "itemName"
 })
-public class Item  {
+public class Item {
 
     @JsonProperty("itemName")
     private String itemName;

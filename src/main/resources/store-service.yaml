@@ -1,12 +1,46 @@
 openapi: "3.0.2"
 info:
-  title: API Title
-  version: "1.0"
-servers:
-  - url: https://api.server.test/v1
+    title: OpenAPI definition
+    version: v0
 paths:
-  /test:
-    get:
-      responses:
-        '200':
-          description: OK
+    /store:
+        get:
+            operationId: getStoreList
+            responses:
+                '200':
+                    description: OK
+
+components:
+    schemas:
+        AimException:
+            properties:
+                description:
+                    type: string
+                message:
+                    type: string
+                statusCode:
+                    format: int32
+                    type: integer
+                timestamp:
+                    format: date-time
+                    type: string
+            type: object
+        Item:
+            properties:
+                itemName:
+                    type: string
+            type: object
+        Product:
+            properties:
+                productName:
+                    type: string
+            type: object
+        Store:
+            properties:
+                invoice:
+                    type: string
+                item:
+                    $ref: '#/components/schemas/Item'
+                product:
+                    $ref: '#/components/schemas/Product'
+            type: object

@@ -24,7 +24,7 @@ import java.util.Date;
         "message",
         "description"
 })
-public class AimException {
+public class AimException extends java.lang.Exception {
     @JsonProperty("statusCode")
     private int statusCode;
     @JsonProperty("timestamp")
